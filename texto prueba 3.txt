@@ -1,0 +1,52 @@
+GIT
+-INTRODUCCIÓN -----------------------------------------------------------(MOLLO)
+-DEFINICIÓN -------------------------------------------------------------(MOLLO)
+-ANTECEDENTES HISTÓRICOS ------------------------------------------------(MOLLO)
+-CARACTERISTICAS --------------------------------------------------------(RODRIGO)
+	-SEGURIDAD
+	-RENDIMIENTO
+	-FLEXIBILIDAD
+-¿PORQUÉ GIT? -----------------------------------------------------------(RODRIGO)
+	-GIT PARA DESARROLLADORES
+	-GIT PARA MARKETING
+	-GIT PARA ADMINISTRACIÓN DE PRODUCTOS
+	-GIT PARA DISEÑADORES
+	-GIT PARA SOPORTE AL CLIENTE
+	-GIT PARA RECURSOS HUMANOS
+-INSTALAR ---------------------------------------------------------------(MISAEL)
+	-INSTALAR EN WINDOWS
+	-INSTALAR EN MAC
+	-INSTALAR EN LINUX
+		-DEBIAN/UBUNTU
+		-FEDORA
+-REPOSITORIOS -----------------------------------------------------------(MISAEL)
+	-¿QUÉ ES UN REPOSITORIO EN GIT?
+	-INICIO DE UN NUEVO REPOSITORIO
+	-CLONACIÓN
+	-GUARDAR CAMBIOS EN EL REPOSITORIO: git add y git commit
+	-AJUSTES Y CONFIGURACIONES
+
+-CONFIGURACIÓN DE UN REPOSITORIO ----------------------------------------(EVER)
+	-GIT INIT
+	-GIT CLONE
+	-GIT CONFIG
+	-ALIAS DE GIT
+-GUARDAR CAMBIOS --------------------------------------------------------(EVER)
+	-GIT ADD
+	-GIT COMMIT
+	-GIT DIFF
+	-GIT STASH
+	-.GITIGNORE
+-EXAMEN DE UN REPOSITORIO -----------------------------------------------(KEVIN)
+	-GIT STATUS
+	-GIT TAG
+	-GIT BLAME
+-DESHACER CAMBIOS -------------------------------------------------------(KEVIN)
+	-GIT CHECKOUT
+	-GIT CLEAN
+	-GIT REVERT
+	-GIT RESET
+	-GIT RM
+-GITHUB ------------------------------------------------------------------(MISAEL)
+-CONCLUSIONES ------------------------------------------------------------(MOLLO)
+-BIBLIOGRAFÍA ------------------------------------------------------------(TODOS)
